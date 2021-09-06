@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name lib)(type KiCad)(uri ${KIPRJMOD}/lib.pretty)(options "")(descr ""))
+  (lib (name DCJ200-10-A-XX-X_REVA)(type KiCad)(uri C:/Users/nicho/Documents/git/RPiZWRGBHat/libraries/DCJ200-10-A-XX-X_REVA/DCJ200-10-A-XX-X_REVA.pretty)(options "")(descr ""))
+)
